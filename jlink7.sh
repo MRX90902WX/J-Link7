@@ -1,5 +1,0 @@
-#!/bin/env bash
-#
-z="
-";jz='yell';Mz='slee';ez=' "  ';fz='   -';nz='et J';iz=']-"';Qz='d by';Zz='Redi';DBz='k';Dz='sh';Tz='n';SBz='done';rz='rls';pz='k7';uz='do';vz=' -n ';cz='ink]';mz='figl';BBz='read';PBz=';;';CBz=' lin';Pz='eate';Rz='"';Yz=' "-[';JBz='url_';hz='ink7';Vz='mmun';MBz='ed.t';Hz='erm ';Cz='7 j.';Bz='d 77';wz='"Url';Wz='ity"';OBz='exit';qz='badu';lz=' "*"';az='rect';Jz='egro';Xz='blue';Gz='sett';IBz='cat ';yz='/n]:';Sz='gree';Lz='red';HBz='Y)';Kz='und ';oz='-Lin';RBz='esac';dz='-"';Uz=' "Co';gz='[J-L';tz='e :';EBz='case';QBz='n)';Az='chmo';FBz=' $li';LBz='scat';Iz='-for';Oz=' "Cr';KBz='obfu';kz='ow';GBz='nk i';bz=' - L';Nz='p 1';Ez='echo';NBz='xt';Fz=' ""';ABz=' "';xz='s [Y';sz='whil';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$z$Gz$Hz$Iz$Jz$Kz$Lz$z$Mz$Nz$z$Ez$Oz$Pz$Qz$Rz$z$Ez$Fz$z$Gz$Hz$Iz$Jz$Kz$Sz$Tz$z$Ez$Uz$Vz$Wz$z$Mz$Nz$z$Gz$Hz$Iz$Jz$Kz$Xz$z$Ez$Fz$z$Ez$Yz$Zz$az$bz$cz$dz$z$Ez$ez$fz$gz$hz$iz$z$Ez$Fz$z$Ez$Fz$z$Gz$Hz$Iz$Jz$Kz$jz$kz$z$Ez$lz$z$mz$nz$oz$pz$z$Ez$lz$z$Ez$Fz$z$qz$rz$z$Mz$Nz$z$Ez$Fz$z$sz$tz$z$uz$z$Ez$vz$wz$xz$yz$ABz$z$BBz$CBz$DBz$z$EBz$FBz$GBz$Tz$z$HBz$z$Ez$Fz$z$Gz$Hz$Iz$Jz$Kz$Sz$Tz$z$IBz$JBz$KBz$LBz$MBz$NBz$z$OBz$z$PBz$z$QBz$z$OBz$z$PBz$z$RBz$z$SBz"
